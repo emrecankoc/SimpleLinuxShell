@@ -1,7 +1,1 @@
-Simple linux shell
-
-1- Runs known command 
-
-2- Input, output redirection
-
-3- Background operations
+Simple linux shell implementation with linux system calls and supports input output redirection
